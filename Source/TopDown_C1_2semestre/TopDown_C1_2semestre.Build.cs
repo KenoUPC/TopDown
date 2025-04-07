@@ -8,7 +8,7 @@ public class TopDown_C1_2semestre : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput" });
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "EnhancedInput", "SpinePlugin" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 
